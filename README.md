@@ -1,4 +1,6 @@
 # MATLAB Notes by WENQI
+该笔记记录本人在科研过程中所学到的MATLAB实用操作，为方便查阅总结再次，都是经过本人验证且实用的代码，由于来源广泛，未能列全参考文献。
+
 
 ## 与系统交互
 ### 直接使用bat命令
@@ -6,6 +8,8 @@
 
 例如：
 > system('"D:\Program Files\ANSYS Inc\v172\ansys\bin\winx64\LSDYNA.exe" I=trugrdo.k MEMORY=200000000')
+
+
 
 
 ## 实用快捷键
