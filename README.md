@@ -1,5 +1,17 @@
 # MATLAB Notes by WENQI
-## Collected tricks
+
+## 与系统交互
+### 直接使用bat命令
+> system()
+
+例如：
+> system('"D:\Program Files\ANSYS Inc\v172\ansys\bin\winx64\LSDYNA.exe" I=trugrdo.k MEMORY=200000000')
+
+
+## 实用快捷键
+1. CTRL+I：自动对齐代码
+
+## 文件读取与图像保存
 
 ### 导出高清晰图片：
 http://blog.sina.com.cn/s/blog_56d5b3b00102w4x4.html
